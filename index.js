@@ -1,7 +1,7 @@
 const yesBtn=document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click', function () {
-    alert('Te amo mucho mi tilina, sabia que ibas a decir que si ')
+    alert('Sabia que ibas a decir que si, te amo mucho mi tilina 😘 ')
 });
 
 const noBtn=document.querySelector('#noBtn');
